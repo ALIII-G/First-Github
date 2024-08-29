@@ -1,7 +1,5 @@
 Chapter 1
-<<<<<<< HEAD
-no7 y7ya 3esa Moses q 
-master ya 8d3
-=======
-no7 y7ya 3esa Moses q oldies ya 8d3
->>>>>>> oldies
+no7 y7ya 3esa Moses q Modies ya 8d3
+master ya 8d3ee
+
+
